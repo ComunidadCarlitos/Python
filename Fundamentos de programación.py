@@ -1,9 +1,3 @@
-#nombre= "Paula"
-#apellido="Esquea"
-#edad= str(23) #Desde aquí lo estoy conviertiendo en string, pero, si yo lo necesito númerico, lo transformo dentro del print y si lo opero no habría problema porque continúa siendo int
-#print("Soy la estudiante: "+ nombre + " "+apellido+ " " + "y tengo: " + edad)
-#print(type(edad))
-
 a= 5 #entero
 b= "3" #string
 c= True #boolean
