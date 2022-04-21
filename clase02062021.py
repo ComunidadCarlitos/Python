@@ -1,4 +1,4 @@
-"""nombres=['David','Paula','Erik']
+"""nombres=['David','Paola','Erik']
 nombres.append('Laura')
 print(nombres)
 
@@ -8,10 +8,10 @@ for i in range (2):
 print(nombres)
 
 #Apellidos
-apellidos=['Esquea', 'Ortiz','Osorio','Lopez','nuñez','Ardila']
+apellidos=['Flechas', 'Ortiz','Quintero','Lopez','nuñez','Ardila']
 nombres.extend(apellidos)
 print(nombres)
-nombres=['David','Paula','Erik']
+nombres=['David','Paola','Erik']
 nombres.insert(1,'Dimo')
 nombres.pop(0)
 print(nombres)
